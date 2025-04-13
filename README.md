@@ -23,3 +23,4 @@ Notre objectif a été de prédire le taux de réussite au Diplôme National du 
 
 
 # Soutenance vidéo  
+https://www.youtube.com/watch?v=7Bb6InUj_fw
